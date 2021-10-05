@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Class
+
+My name is Tonya Gomillion and this is my first time using GitHub.
